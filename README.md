@@ -4,7 +4,6 @@
 
 ### Github Stats ⚡
 ![GitHub stats](https://github-readme-stats-eight-eta-39.vercel.app/api?username=seven1106\&rank_icon=github&theme=radical)
-
 ![Top Langs](https://github-readme-stats-eight-eta-39.vercel.app/api/top-langs/?username=seven1106&theme=radical)
 
 <p align="center">
