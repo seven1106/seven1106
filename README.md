@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Javascript💛.
+
 
 ### Github Stats ⚡
 ![GitHub stats](https://github-readme-stats-eight-eta-39.vercel.app/api?username=seven1106\&rank_icon=github&theme=radical)
